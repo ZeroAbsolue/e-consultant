@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>eBusy</title>
+    <title>Home e-consultant</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
@@ -1015,8 +1015,8 @@
                 <!--Info-->
                 <p><i class="fa fa-home mr-3"></i> New York, NY 10012, US</p>
                 <p><i class="fa fa-envelope mr-3"></i> info@example.com</p>
-                <p><i class="fa fa-phone mr-3"></i> + 01 234 567 88</p>
-                <p><i class="fa fa-print mr-3"></i> + 01 234 567 89</p>
+                <p><i class="fa fa-phone mr-3"></i> + 237 6 91 51 60 82</p>
+                <p><i class="fa fa-print mr-3"></i> + 237 6 70 37 12 36</p>
 
             </div>
             <!--/Second column-->
