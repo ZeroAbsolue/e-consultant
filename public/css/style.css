@@ -1,0 +1,15 @@
+.btn-circle-2 {
+    width: 70px;
+    height: 70px;
+    border: 2px solid #59698D;
+    background-color: white !important;
+    color: #59698D !important;
+    border-radius: 50%;
+    padding: 22px 18px 15px 18px;
+    margin-top: -22px; }
+.btn-circle-2:hover {
+    border: 2px solid #4285F4;
+    color: #4285F4 !important;
+    background-color: white !important; }
+.btn-circle-2 .fa {
+    font-size: 1.7rem; }
