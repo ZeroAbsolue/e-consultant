@@ -334,17 +334,14 @@
                 <!--First column-->
                 <div class="col-lg-3 col-md-6 mb-5">
                     <div class="avatar">
-                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(5).jpg" class="z-depth-1">
+                        <img src="/img/Team/wilfried_noir_blanc.jpg" class="z-depth-1">
                     </div>
                     <h4 class="font-weight-bold my-4">Wilfried N</h4>
-                    <p class="grey-text">CRIMINAL LAWYER</p>
-
-                    <!--Facebook-->
-                    <a type="button" class="btn-floating btn-fb btn-primary"><i class="fa fa-facebook"></i></a>
+                    <p class="grey-text">Ingénieur en Management des Systèmes d'informations</p>
                     <!--Pinterest-->
-                    <a type="button" class="btn-floating btn-primary"><i class="fa fa-pinterest"></i></a>
+                    <a type="button" class="btn-floating btn-primary" href="https://www.linkedin.com/in/wilfried-nkouekam-b1a628156/"><i class="fa fa-linkedin"></i></a>
                     <!--Instagram-->
-                    <a type="button" class="btn-floating btn-primary"><i class="fa fa-instagram"></i></a>
+                    <a type="button" class="btn-floating btn-primary" href="https://github.com/ZeroAbsolue/"><i class="fa fa-github"></i></a>
 
                 </div>
                 <!--/First column-->
@@ -352,10 +349,10 @@
                 <!--Second column-->
                 <div class="col-lg-3 col-md-6 mb-5">
                     <div class="avatar">
-                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(12).jpg" class="z-depth-1">
+                        <img src="/img/Team/female-2747374_960_720.png" class="z-depth-1">
                     </div>
                     <h4 class="font-weight-bold my-4">Sarah Melyah</h4>
-                    <p class="grey-text">BANK & FINANCIAL LAWYER</p>
+                    <p class="grey-text">Rédactrice de contenu</p>
 
                     <!--Google +-->
                     <a type="button" class="btn-floating btn-gplus btn-secondary"><i class="fa fa-google-plus"></i></a>
@@ -370,10 +367,10 @@
                 <!--Third column-->
                 <div class="col-lg-3 col-md-6 mb-5">
                     <div class="avatar">
-                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg" class="z-depth-1">
+                        <img src="/img/Team/Profile.png" class="z-depth-1">
                     </div>
                     <h4 class="font-weight-bold my-4">John Doe</h4>
-                    <p class="grey-text">FAMILY LAWYER</p>
+                    <p class="grey-text">Désigner</p>
 
                     <!--Linkedin-->
                     <a type="button" class="btn-floating btn-li btn-primary"><i class="fa fa-linkedin"></i></a>
