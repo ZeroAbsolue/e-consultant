@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Home e-consultant</title>
+    <title>e-consultant</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
@@ -28,7 +28,7 @@
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark ">
 
         <!-- Navbar brand -->
-        <a class="navbar-brand" href="#home">eBusy</a>
+        <a class="navbar-brand" href="#home"><img src="/img/favicon/coollogo_com-5595572.png"></a>
 
         <!-- Collapse button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
@@ -41,11 +41,6 @@
 
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#home">Home
-                        <span class="sr-only">(current)</span>
-                    </a>
-                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#about">About</a>
                 </li>
@@ -60,6 +55,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#contact">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Blog</a>
                 </li>
             </ul>
             <!-- Links -->
@@ -81,18 +79,18 @@
         <!--Slides-->
         <div class="carousel-inner view " role="listbox">
             <div class="carousel-item active ">
-                <img class="d-block w-100" src="/img/Baniere/235836866b71f0b.jpg" style="min-height: 400px" alt="First slide" width="" >
-                <div class="mask flex-center waves-effect waves-light rgba-indigo-slight">
+                <img class="d-block w-100" src="/img/Baniere/8257a8562d0401b.jpg" style="min-height: 400px" alt="First slide" width="" >
+                <div class=" flex-center waves-effect waves-light rgba-indigo-slight">
                 </div>
             </div>
             <div class="carousel-item ">
-                <img class="d-block w-100" src="/img/Baniere/8257a8562d0401b.jpg" style="min-height: 400px" alt="Second slide">
+                <img class="d-block w-100" src="/img/Baniere/235836866b71f0b.jpg" style="min-height: 400px" alt="Second slide">
                 <div class=" flex-center waves-effect waves-light rgba-black-light">
 
                 </div>
             </div>
             <div class="carousel-item ">
-                <img class="d-block w-100" src="/img/Baniere/process.jpg" style="min-height: 400px" alt="Third slide">
+                <img class="d-block w-100" src="/img/Baniere/respect_qualite.jpg" style="min-height: 400px" alt="Third slide">
                 <div class=" flex-center waves-effect waves-light rgba-black-light">
 
                 </div>
@@ -110,9 +108,9 @@
         </a>
         <!--/.Controls-->
         <ol class="carousel-indicators">
-            <li data-target="#carousel-thumb" data-slide-to="0" class="active"> <img class="d-block w-100 img-fluid" src="/img/Baniere/235836866b71f0b.jpg"></li>
-            <li data-target="#carousel-thumb" data-slide-to="1"><img class="d-block w-100 img-fluid" src="/img/Baniere/8257a8562d0401b.jpg"></li>
-            <li data-target="#carousel-thumb" data-slide-to="2"><img class="d-block w-100 img-fluid" src="/img/Baniere/process.jpg"></li>
+            <li data-target="#carousel-thumb" data-slide-to="0" class="active"> <img class="d-block w-100 img-fluid" src="/img/Baniere/8257a8562d0401b.jpg"></li>
+            <li data-target="#carousel-thumb" data-slide-to="1"><img class="d-block w-100 img-fluid" src="/img/Baniere/235836866b71f0b.jpg"></li>
+            <li data-target="#carousel-thumb" data-slide-to="2"><img class="d-block w-100 img-fluid" src="/img/Baniere/respect_qualite.jpg"></li>
         </ol>
 
 
@@ -164,7 +162,7 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">01 | Nous sommes expérimentés</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">01 | Accroitre votre notoriété</h5>
                     <!-- Text -->
                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, aliquam dolor soluta praesentium natus alias eligendi!</p>
                     </div>
@@ -174,7 +172,7 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">02 | Nous sommes compétents</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">02 | Optimsier vos Dashboard</h5>
                     <!-- Text -->
                     <p class="grey-text">A  et sequi sit similique fuga deleniti assumenda. Quisquam ea corrupti laudantium assumenda.</p>
                     </div>
@@ -184,7 +182,7 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">03 | Nous sommes créatifs</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">03 | Dynamiser vos services</h5>
                     <!-- Text -->
                     <p class="grey-text">Oluptatum autem veniam quaerat sequi odit sit aliquam expedita, ab, excepturi pariatur natus magnam possimus.</p>
                     </div>
@@ -836,7 +834,7 @@
 
                     <div class="col-md-4">
                         <a class="mb-2 btn-floating btn-secondary"><i class="fa fa-phone"></i></a>
-                        <p>+ 01 234 567 89</p>
+                        <p>+ 237 6 91 51 60 82</p>
                         <p>Mon - Fri, 8:00-22:00</p>
                     </div>
 
