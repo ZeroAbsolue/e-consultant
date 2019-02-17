@@ -353,6 +353,8 @@
 
                     <!--Google +-->
                     <a type="button" class="btn-floating btn-danger" href="mailto:ginaline0@gmail.com"><i class="fa fa-google-plus"></i></a>
+                    <!--facebook +-->
+                    <a type="button" class="btn-floating btn-blue" href="https://web.facebook.com/profile.php?id=100005315837449&sk=photos"><i class="fa fa-facebook"></i></a>
                 </div>
                 <!--/Second column-->
 
