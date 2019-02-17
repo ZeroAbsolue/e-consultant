@@ -19,6 +19,8 @@
     <!-- Your custom styles (optional) -->
     <link href="../css/style.css" rel="stylesheet">
 
+    <link rel="icon" href="/img/favicon/coollogo_com-301791256.png">
+
 </head>
 
 <body class=" light-blue-skin">
@@ -329,11 +331,11 @@
             <div class="row text-center">
 
                 <!--First column-->
-                <div class="col-lg-4 col-md-6 mb-5">
+                <div class="col-lg-3 col-md-6 mb-5">
                     <div class="avatar">
                         <img src="/img/Team/wilfried_noir_blanc.jpg" class="z-depth-1">
                     </div>
-                    <h4 class="font-weight-bold my-4">Wilfried N</h4>
+                    <h4 class="font-weight-bold my-3">Wilfried N</h4>
                     <p class="grey-text">Ingénieur en Management des Systèmes d'informations</p>
                     <!--Pinterest-->
                     <a type="button" class="btn-floating btn-secondary" href="https://www.linkedin.com/in/wilfried-nkouekam-b1a628156/"><i class="fa fa-linkedin"></i></a>
@@ -344,7 +346,7 @@
                 <!--/First column-->
 
                 <!--Second column-->
-                <div class="col-lg-4 col-md-6 mb-5">
+                <div class="col-lg-3 col-md-6 mb-5">
                     <div class="avatar" style="height: 270px">
                         <img src="/img/Team/line_couleur.jpg"  class="z-depth-1">
                     </div>
@@ -359,7 +361,7 @@
                 <!--/Second column-->
 
                 <!--Third column-->
-                <div class="col-lg-4 col-md-6 mb-5">
+                <div class="col-lg-3 col-md-6 mb-5">
                     <div class="avatar" style="height: 270px">
                         <img src="/img/Team/junior.jpg" class="z-depth-1">
                     </div>
@@ -373,7 +375,20 @@
                 </div>
                 <!--/Third column-->
 
+                <!--Second column-->
+                <div class="col-lg-3 col-md-6 mb-5">
+                    <div class="avatar" style="height: 270px">
+                        <img src="/img/Team/Profile.png"  class="z-depth-1">
+                    </div>
+                    <h4 class="font-weight-bold my-4">Alain S</h4>
+                    <p class="grey-text">Rédacteur de contenu</p>
 
+                    <!--Google +-->
+                    <a type="button" class="btn-floating btn-danger"><i class="fa fa-google-plus"></i></a>
+                    <!--facebook +-->
+                    <a type="button" class="btn-floating btn-blue"><i class="fa fa-facebook"></i></a>
+                </div>
+                <!--/Second column-->
             </div>
 
         </section>
