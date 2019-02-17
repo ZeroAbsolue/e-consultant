@@ -146,9 +146,8 @@
                 <div class="col-lg-7 offset-lg-1">
                     <h5 class="font-weight-bold mb-3">Nous sommes un groupe de professionnels expérimentés dans divers domaines de l'informatique à votre service.</h5>
                     <p align="justify">
-                        <span>Pour la plupart <strong>Ingénieur en Système d'information et d'infrastructure</strong> ou en <strong>Système résseau</strong> du <a href="" class="black-text">groupe 3il France</a>, Nous mettons à votre disposition les compétences pratiques et théoriques acquises au travers de nos différentes expériences professionnels pour la réussite de vos projets. </span>
-                        <span>Nous sommes disponible pour vous conseillez, vous orientez si besoin est, de vous formez dans le processus de mise sur pied d'une plateforme mobile ou web, local ou distante à votre entreprise. Nous usons des technologies de derniere génération pour réaliser vos projets et les rendre accessibles 7j/7/24.</span>
-                        <span>Au travers de nos <strong>atouts technico-commerciales</strong> nous menons à bien l'ecoute,l'etude et la comprehension de vos besoins ainsi sa transmission fidèle à l'equipe projet</span>
+                        <span>Pour la plupart <strong>Ingénieur en Système d'information et d'infrastructure</strong> ou en <strong>Système résseau</strong>, Nous mettons à votre disposition les compétences pratiques et théoriques acquises au travers de nos différentes expériences professionnels pour la réussite de vos projets. </span>
+                        <span>Nous sommes disponible pour <strong>vous conseillez, vous orientez si besoin est, de vous formez</strong> dans le processus de mise en place d'une plateforme mobile ou web,d'une infrastructure réseau pour vous ou votre entreprise. Nous usons des technologies de derniere génération pour réaliser vos projets  de façon sécurisé et les rendre accessibles.</span>
                         <span>Plus aucune raison de remettre à demain le projet <strong>de notoriété et/ou de visibilité de vos activités sur le web</strong>,Terminé le non respect des besoins exprimés.</span></p>
                 </div>
 
@@ -162,9 +161,9 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">01 | Accroitre votre notoriété</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">| Accroitre votre notoriété</h5>
                     <!-- Text -->
-                    <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, aliquam dolor soluta praesentium natus alias eligendi!</p>
+                    <p class="grey-text">Par ce que votre notoriété présage la qualité de vos services,Ensemble faisons la croitre</p>
                     </div>
                     </div>
                 <!-- /.First column -->
@@ -172,9 +171,9 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">02 | Optimsier vos Dashboard</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">| Optimsier vos dashboard</h5>
                     <!-- Text -->
-                    <p class="grey-text">A  et sequi sit similique fuga deleniti assumenda. Quisquam ea corrupti laudantium assumenda.</p>
+                    <p class="grey-text">Au travers de tableau de bord personnalisé, obtené suivant vos exigences l'etat de votre service.</p>
                     </div>
                 </div>
                 <!-- /.Second column -->
@@ -182,9 +181,9 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">03 | Dynamiser vos services</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">| Administrer votre réseau</h5>
                     <!-- Text -->
-                    <p class="grey-text">Oluptatum autem veniam quaerat sequi odit sit aliquam expedita, ab, excepturi pariatur natus magnam possimus.</p>
+                    <p class="grey-text">Configurer et suivez le trafic d'information dans votre organisation et optimisez votre rendement.</p>
                     </div>
                     </div>
                 <!-- /.Third column -->
@@ -220,7 +219,10 @@
 
             <!--Secion heading-->
             <h2 class="indigo-text text-center text-uppercase font-weight-bold mt-4 mb-5 pt-5 pb-4 wow fadeIn" data-wow-delay="0.2s">Our <span class="black-text">Services</span></h2>
-            <p class="grey-text text-center ml-5 mr-5 mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit eaque delectus, beatae maxime temporibus maiores quibusdam quasi. Rem magnam ad perferendis iusto sint tempora ea voluptatibus iure, animi excepturi modi aut possimus.</p>
+            <p class="grey-text text-center ml-5 mr-5 mb-5"><span>Au travers de nos <strong>atouts technico-commerciales</strong> nous menons à bien l'<strong class="black-text">ecoute,l'etude et la comprehension de vos besoins.</strong>
+                                                            Une fois vos exigences contractualiser, si vous le désirez, une de nos équipes éffecue une <strong class="black-text">analyse</strong> détaillée de vos besoins afin d'effectuer <strong class="black-text"> une définition des
+                                                            spécifications techniques</strong> nécessaire à l'implémentation de votre service. Suite à cette étape nous pouvons passer à l'<strong class="black-text">implémentation de votre service.</strong></span>
+                                                            <span>Nous avons le soucis de la rationalisation des couts, du respect des délais et de la qualité. Tout ceci pour vous satisfaire</span></p>
 
             <!-- First row -->
             <div class="row features-big text-center wow fadeIn" data-wow-delay="0.4s">
@@ -229,38 +231,24 @@
                 <div class="col-md-4 mb-5">
 
                     <!--Panel-->
-                    <div class="card card-body rgba-pink-slight hoverable">
+                    <div class="card card-body deep-orange lighten-3 hoverable">
                         <i class="fa fa-assistive-listening-systems dark-grey- fa-3x mb-4" aria-hidden="true"></i>
-                        <h5 class="font-weight-bold text-uppercase mb-4">Ecoute client</h5>
-                        <p class="dark-grey-text">Nous mettons à votre disposition des spécialistes pour collecter vos différentes exigences</p>
+                        <h5 class="font-weight-bold text-uppercase mb-4">Ecoute et analyse des besoins client</h5>
+                        <p class="dark-grey-text">Grace à vous, nous définissons les exigences de votre service
+												  et schématisons les spécifications fonctionnelles</p>
                     </div>
                     <!--/.Panel-->
 
                 </div>
                 <!-- /Ecoute column -->
-
-                <!-- Analyse column -->
-                <div class="col-md-4 mb-5">
-
-                    <!--Panel-->
-                    <div class="card card-body hoverable">
-                        <i class="fa fa-file dark-grey- fa-3x mb-4" aria-hidden="true"></i>
-                        <h5 class="font-weight-bold text-uppercase mb-4">Analyse des besoins</h5>
-                        <p class="dark-grey-text">Définition schématiser des spécifications fonctionnelles de votre futur service</p>
-                    </div>
-                    <!--/.Panel-->
-
-                </div>
-                <!-- /Analyse column -->
-
                 <!-- Conception column -->
                 <div class="col-md-4 mb-5">
 
                     <!--Panel-->
-                    <div class="card card-body yellow hoverable">
-                        <i class="fa fa-pencil dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
-                        <h5 class="font-weight-bold text-uppercase mb-4">Conception d'application</h5>
-                        <p class="dark-grey-text">Schématisation des process techniques et technologies pour mener à bien votre projet</p>
+                    <div class="card card-body  hoverable">
+                        <i class="fa fa-laptop dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
+                        <h5 class="font-weight-bold text-uppercase mb-4">Conception et management des systèmes d'information</h5>
+                        <p class="dark-grey-text">Avec vous, nous pensons et mettons en place votre système d'information</p>
                     </div>
                     <!--/.Conception-->
 
@@ -271,10 +259,10 @@
                 <div class="col-md-4 mb-5">
 
                     <!--Panel-->
-                    <div class="card card-body hoverable">
-                        <i class="fa fa-code dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
-                        <h5 class="font-weight-bold text-uppercase mb-4">Developpement d'application</h5>
-                        <p class="dark-grey-text">Réalisation de votre produit ou service</p>
+                    <div class="card card-body yellow hoverable">
+                        <i class="fa fa-wifi dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
+                        <h5 class="font-weight-bold text-uppercase mb-4">Conception et management des systèmes réseau</h5>
+                        <p class="dark-grey-text">Ensemble, nous revisons ou mettons sur pied votre système réseau </p>
                     </div>
                     <!--/.Panel-->
 
@@ -285,15 +273,26 @@
                 <div class="col-md-4 mb-5">
 
                     <!--Panel-->
-                    <div class="card card-body deep-orange lighten-3 hoverable">
-                        <i class="fa fa-bar-chart dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
-                        <h5 class="font-weight-bold text-uppercase mb-4">Reporting</h5>
-                        <p class="dark-grey-text">Mise en place de tableau de bord pour le suivi de vos service en temps réel.</p>
+                    <div class="card card-body hoverable">
+                        <i class="fa fa-pencil dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
+                        <h5 class="font-weight-bold text-uppercase mb-4">Redaction de contenu</h5>
+                        <p class="dark-grey-text">Par ce que vous recherchez des contenus accrocheur exprimant vos idées, nous sommes la</p>
                     </div>
                     <!--/.Panel-->
 
                 </div>
                 <!-- /.Developpement column -->
+
+                <!-- Developpement column -->
+                <div class="col-md-4 mb-5">
+
+                    <!--Panel-->
+                    <div class="card card-body rgba-pink-slight hoverable">
+                        <img src="/img/come-and-join-us-png-8.png" height="200">
+                    </div>
+                    <!--/.Panel-->
+                </div>
+
                 <!-- Developpement column -->
                 <div class="col-md-4 mb-5">
 
@@ -330,73 +329,49 @@
             <div class="row text-center">
 
                 <!--First column-->
-                <div class="col-lg-3 col-md-6 mb-5">
+                <div class="col-lg-4 col-md-6 mb-5">
                     <div class="avatar">
                         <img src="/img/Team/wilfried_noir_blanc.jpg" class="z-depth-1">
                     </div>
                     <h4 class="font-weight-bold my-4">Wilfried N</h4>
                     <p class="grey-text">Ingénieur en Management des Systèmes d'informations</p>
                     <!--Pinterest-->
-                    <a type="button" class="btn-floating btn-primary" href="https://www.linkedin.com/in/wilfried-nkouekam-b1a628156/"><i class="fa fa-linkedin"></i></a>
+                    <a type="button" class="btn-floating btn-secondary" href="https://www.linkedin.com/in/wilfried-nkouekam-b1a628156/"><i class="fa fa-linkedin"></i></a>
                     <!--Instagram-->
-                    <a type="button" class="btn-floating btn-primary" href="https://github.com/ZeroAbsolue/"><i class="fa fa-github"></i></a>
+                    <a type="button" class="btn-floating btn-dark" href="https://github.com/ZeroAbsolue/"><i class="fa fa-github"></i></a>
 
                 </div>
                 <!--/First column-->
 
                 <!--Second column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar">
-                        <img src="/img/Team/female-2747374_960_720.png" class="z-depth-1">
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="avatar" style="height: 270px">
+                        <img src="/img/Team/line_couleur.jpg"  class="z-depth-1">
                     </div>
-                    <h4 class="font-weight-bold my-4">Sarah Melyah</h4>
+                    <h4 class="font-weight-bold my-4">Gina L</h4>
                     <p class="grey-text">Rédactrice de contenu</p>
 
                     <!--Google +-->
-                    <a type="button" class="btn-floating btn-gplus btn-secondary"><i class="fa fa-google-plus"></i></a>
-                    <!--Facebook-->
-                    <a type="button" class="btn-floating btn-fb btn-secondary"><i class="fa fa-facebook"></i></a>
-                    <!--GitHub-->
-                    <a type="button" class="btn-floating btn-git btn-secondary"><i class="fa fa-github"></i></a>
-
+                    <a type="button" class="btn-floating btn-danger" href="mailto:ginaline0@gmail.com"><i class="fa fa-google-plus"></i></a>
                 </div>
                 <!--/Second column-->
 
                 <!--Third column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar">
-                        <img src="/img/Team/Profile.png" class="z-depth-1">
+                <div class="col-lg-4 col-md-6 mb-5">
+                    <div class="avatar" style="height: 270px">
+                        <img src="/img/Team/junior.jpg" class="z-depth-1">
                     </div>
-                    <h4 class="font-weight-bold my-4">John Doe</h4>
-                    <p class="grey-text">Désigner</p>
+                    <h4 class="font-weight-bold my-3">Jun p</h4>
+                    <p class="grey-text">Ingénieur en Management des Systèmes d'informations</p>
 
-                    <!--Linkedin-->
-                    <a type="button" class="btn-floating btn-li btn-primary"><i class="fa fa-linkedin"></i></a>
-                    <!--Twitter-->
-                    <a type="button" class="btn-floating btn-tw btn-primary"><i class="fa fa-twitter"></i></a>
-                    <!--Dribbble-->
-                    <a type="button" class="btn-floating btn-dribbble btn-primary"><i class="fa fa-dribbble"></i></a>
+                    <!--Google +-->
+                    <a type="button" class="btn-floating btn-danger" href="mailto:jbnulrich@gmail.com"><i class="fa fa-google-plus"></i></a>
+
 
                 </div>
                 <!--/Third column-->
 
-                <!--Third column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar">
-                        <img src="https://mdbootstrap.com/img/Photos/Avatars/avatar-11.jpg" class="z-depth-1">
-                    </div>
-                    <h4 class="font-weight-bold my-4">Anna Smith</h4>
-                    <p class="grey-text">BUSINESS LAWYER</p>
 
-                    <!--Linkedin-->
-                    <a type="button" class="btn-floating btn-li btn-secondary"><i class="fa fa-linkedin"></i></a>
-                    <!--Twitter-->
-                    <a type="button" class="btn-floating btn-tw btn-secondary"><i class="fa fa-twitter"></i></a>
-                    <!--Dribbble-->
-                    <a type="button" class="btn-floating btn-dribbble btn-secondary"><i class="fa fa-dribbble"></i></a>
-
-                </div>
-                <!--/Third column-->
             </div>
 
         </section>
@@ -840,8 +815,8 @@
 
                     <div class="col-md-4">
                         <a class="mb-2 btn-floating btn-secondary"><i class="fa fa-envelope"></i></a>
-                        <p>info@gmail.com</p>
-                        <p>sale@gmail.com</p>
+                        <p>econsultant237@gmail.com</p>
+                        <p>futurdeveloppeur0@gmail.com</p>
                     </div>
                 </div>
 
@@ -1012,7 +987,7 @@
 
                 <!--Info-->
                 <p><i class="fa fa-home mr-3"></i> New York, NY 10012, US</p>
-                <p><i class="fa fa-envelope mr-3"></i> info@example.com</p>
+                <p><i class="fa fa-envelope mr-3"></i> econsultant237@gmail.com</p>
                 <p><i class="fa fa-phone mr-3"></i> + 237 6 91 51 60 82</p>
                 <p><i class="fa fa-print mr-3"></i> + 237 6 70 37 12 36</p>
 
@@ -1057,7 +1032,7 @@
     <!--Copyright-->
     <div class="footer-copyright py-3 text-center">
         <div class="container-fluid">
-            © 2018 Copyright: <a href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank"> MDBootstrap.com </a>
+            © 2018 Copyright: <a href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank"> e-consultant.com</a>
         </div>
     </div>
     <!--/Copyright-->
