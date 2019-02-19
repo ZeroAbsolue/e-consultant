@@ -19,7 +19,7 @@
     <!-- Your custom styles (optional) -->
     <link href="../css/style.css" rel="stylesheet">
 
-    <link rel="icon" href="/img/favicon/coollogo_com-301791256.png">
+    <link rel="icon" href="/img/favicon/1jojl1FOMkX9WypfBe43D6ki...OBqxVInxjNwXs1M3EMoAJtlSUthPZv9Pw-ConvertImage.png">
 
 </head>
 
