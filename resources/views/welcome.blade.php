@@ -148,8 +148,9 @@
                 <div class="col-lg-7 offset-lg-1">
                     <h5 class="font-weight-bold mb-3">Nous sommes un groupe de professionnels expérimentés dans divers domaines de l'informatique à votre service.</h5>
                     <p align="justify">
-                        <span>Pour la plupart <strong>Ingénieur en Système d'information et d'infrastructure</strong> ou en <strong>Système résseau</strong>, Nous mettons à votre disposition les compétences pratiques et théoriques acquises au travers de nos différentes expériences professionnels pour la réussite de vos projets. </span>
-                        <span>Nous sommes disponible pour <strong>vous conseillez, vous orientez si besoin est, de vous formez</strong> dans le processus de mise en place d'une plateforme mobile ou web,d'une infrastructure réseau pour vous ou votre entreprise. Nous usons des technologies de derniere génération pour réaliser vos projets  de façon sécurisé et les rendre accessibles.</span>
+                        <span>Pour la plupart <strong>Ingénieur en Système d'information et d'infrastructure</strong> ou en <strong>Système résseau</strong>, Nous mettons à votre disposition les compétences pratiques et théoriques acquises à travers de nos différentes expériences professionnelles pour la réussite de vos projets. </span>
+                        <span> Nous utilisons les technologies de derniere génération pour réaliser vos projets  de façon sécurisé et les rendre accessibles.
+                               Nous vous apportons de manière concrète<strong> conseils, orientations et formation de qualité</strong> dans le processus de mise en place d'une plateforme mobile ou web,d'une infrastructure réseau pour vous ou votre entreprise.</span>
                         <span>Plus aucune raison de remettre à demain le projet <strong>de notoriété et/ou de visibilité de vos activités sur le web</strong>,Terminé le non respect des besoins exprimés.</span></p>
                 </div>
 
