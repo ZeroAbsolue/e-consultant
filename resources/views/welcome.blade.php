@@ -821,12 +821,12 @@
                 <div class="row text-center mt-1">
                     <div class="col-md-4">
                         <a class=" mb-2 btn-floating btn-secondary"><i class="fa fa-map-marker"></i></a>
-                        <p>New York, NY 10012</p>
-                        <p>United States</p>
+                        <p>Douala</p>
+                        <p>Cameroun</p>
                     </div>
 
                     <div class="col-md-4">
-                        <a class="mb-2 btn-floating btn-secondary"><i class="fa fa-phone"></i></a>
+                        <a class="mb-2 btn-floating btn-secondary"><i class="fa fa-mobile-phone"></i></a>
                         <p>+ 237 6 91 51 60 82</p>
                         <p>Mon - Fri, 8:00-22:00</p>
                     </div>
@@ -836,6 +836,7 @@
                         <p>econsultant237@gmail.com</p>
                         <p>futurdeveloppeur0@gmail.com</p>
                     </div>
+
                 </div>
 
             </div>
@@ -1004,7 +1005,7 @@
                 </ul>
 
                 <!--Info-->
-                <p><i class="fa fa-home mr-3"></i> New York, NY 10012, US</p>
+                <p><i class="fa fa-home mr-3"></i> Douala, CAMEROUN</p>
                 <p><i class="fa fa-envelope mr-3"></i> econsultant237@gmail.com</p>
                 <p><i class="fa fa-phone mr-3"></i> + 237 6 91 51 60 82</p>
                 <p><i class="fa fa-print mr-3"></i> + 237 6 70 37 12 36</p>
