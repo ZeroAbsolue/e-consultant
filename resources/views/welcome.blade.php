@@ -786,7 +786,8 @@
 
                 <!--Form with header-->
                 <div class="card">
-
+<form action="{{route('contact.store')}}" method="post">
+    @csrf
                     <div class="card-body">
                         <!--Header-->
                         <div class="form-header primary-color">
@@ -799,25 +800,25 @@
                         <!--Body-->
                         <div class="md-form">
                             <i class="fa fa-user prefix"></i>
-                            <input type="text" id="form3" class="form-control">
+                            <input type="text" id="form3" name="name" class="form-control">
                             <label for="form3">Your name</label>
                         </div>
 
                         <div class="md-form">
                             <i class="fa fa-envelope prefix"></i>
-                            <input type="text" id="form2" class="form-control">
+                            <input type="email" id="form2" name="email" class="form-control">
                             <label for="form2">Your email</label>
                         </div>
 
                         <div class="md-form">
                             <i class="fa fa-tag prefix"></i>
-                            <input type="text" id="form32" class="form-control">
+                            <input type="text" id="form32" name ="subject" class="form-control">
                             <label for="form32">Subject</label>
                         </div>
 
                         <div class="md-form">
                             <i class="fa fa-pencil prefix"></i>
-                            <textarea type="text" id="form8" class="md-textarea form-control" rows="3"></textarea>
+                            <textarea type="text" id="form8" name="message" class="md-textarea form-control" rows="3"></textarea>
                             <label for="form8">Icon Prefix</label>
                         </div>
 
@@ -826,7 +827,7 @@
                         </div>
 
                     </div>
-
+</form>
                 </div>
                 <!--/Form with header-->
 

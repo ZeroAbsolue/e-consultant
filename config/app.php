@@ -14,6 +14,18 @@ return [
     */
 
     'name' => env('APP_NAME', 'E-Consultant'),
+/*
+    |--------------------------------------------------------------------------
+    | Application Email
+    |--------------------------------------------------------------------------
+    |
+    | This value is the Email of your application. This value is used when the
+    | framework needs to place the application's name in a notification or
+    | any other location as required by the application or its packages.
+    |
+    */
+
+    'email' => env('APP_EMAIL', 'econsultant237@gmail.com'),
 
     /*
     |--------------------------------------------------------------------------
