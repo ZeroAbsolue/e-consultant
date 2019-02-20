@@ -92,7 +92,7 @@
                 </div>
             </div>
             <div class="carousel-item ">
-                <img class="d-block w-100" src="/img/Baniere/respect_qualite.jpg" style="min-height: 400px" alt="Third slide">
+                <img class="d-block w-100" src="/img/Baniere/reseau.jpg" style="min-height: 400px" alt="Third slide">
                 <div class=" flex-center waves-effect waves-light rgba-black-light">
 
                 </div>
@@ -112,7 +112,7 @@
         <ol class="carousel-indicators">
             <li data-target="#carousel-thumb" data-slide-to="0" class="active"> <img class="d-block w-100 img-fluid" src="/img/Baniere/8257a8562d0401b.jpg"></li>
             <li data-target="#carousel-thumb" data-slide-to="1"><img class="d-block w-100 img-fluid" src="/img/Baniere/235836866b71f0b.jpg"></li>
-            <li data-target="#carousel-thumb" data-slide-to="2"><img class="d-block w-100 img-fluid" src="/img/Baniere/respect_qualite.jpg"></li>
+            <li data-target="#carousel-thumb" data-slide-to="2"><img class="d-block w-100 img-fluid" src="/img/Baniere/reseau.jpg"></li>
         </ol>
 
 
@@ -148,9 +148,9 @@
                 <div class="col-lg-7 offset-lg-1">
                     <h5 class="font-weight-bold mb-3">Nous sommes un groupe de professionnels expérimentés dans divers domaines de l'informatique à votre service.</h5>
                     <p align="justify">
-                        <span>Pour la plupart <strong>Ingénieur en Système d'information et d'infrastructure</strong> ou en <strong>Système résseau</strong>, Nous mettons à votre disposition les compétences pratiques et théoriques acquises à travers de nos différentes expériences professionnelles pour la réussite de vos projets. </span>
-                        <span> Nous utilisons les technologies de derniere génération pour réaliser vos projets  de façon sécurisé et les rendre accessibles.
-                               Nous vous apportons de manière concrète<strong> conseils, orientations et formation de qualité</strong> dans le processus de mise en place d'une plateforme mobile ou web,d'une infrastructure réseau pour vous ou votre entreprise.</span>
+                        <span>Pour la plupart <strong>Ingénieur en Système d'information et d'infrastructure</strong> ou en <strong>Système résseau</strong>, Nous mettons à votre disposition les compétences pratiques et théoriques acquise à travers nos différentes expériences professionnelles pour la réussite de vos projets. </span>
+                        <span> Nous utilisons <strong>les technologies de dernière génération</strong> pour réaliser vos projets  de façon sécurisés et les rendre accessibles.
+                               Nous vous apportons de manière concrète<strong> conseils, orientations et formations de qualité</strong> dans le processus de mise en place d'une plateforme mobile, web ou d'une infrastructure réseau pour vous ou votre entreprise.</span>
                         <span>Plus aucune raison de remettre à demain le projet <strong>de notoriété et/ou de visibilité de vos activités sur le web</strong>,Terminé le non respect des besoins exprimés.</span></p>
                 </div>
 
@@ -174,9 +174,9 @@
                 <div class="col-md-4 mb-5">
                     <!--Title-->
                     <div class="card card-body hoverable">
-                    <h5 class="feature-title font-weight-bold mb-1">| Optimsier vos dashboard</h5>
+                    <h5 class="feature-title font-weight-bold mb-1">| Optimsier vos tableau de bord</h5>
                     <!-- Text -->
-                    <p class="grey-text">Au travers de tableau de bord personnalisé, obtené suivant vos exigences l'etat de votre service.</p>
+                    <p class="grey-text">Au travers des tableaux de bord personnalisés, obtener suivant vos exigences l'etat de votre service.</p>
                     </div>
                 </div>
                 <!-- /.Second column -->
@@ -186,7 +186,7 @@
                     <div class="card card-body hoverable">
                     <h5 class="feature-title font-weight-bold mb-1">| Administrer votre réseau</h5>
                     <!-- Text -->
-                    <p class="grey-text">Configurer et suivez le trafic d'information dans votre organisation et optimisez votre rendement.</p>
+                    <p class="grey-text">Configurer et suiver le trafic d'information dans votre organisation et optimiser votre rendement.</p>
                     </div>
                     </div>
                 <!-- /.Third column -->
@@ -222,10 +222,10 @@
 
             <!--Secion heading-->
             <h2 class="indigo-text text-center text-uppercase font-weight-bold mt-4 mb-5 pt-5 pb-4 wow fadeIn" data-wow-delay="0.2s">Our <span class="black-text">Services</span></h2>
-            <p class="grey-text text-center ml-5 mr-5 mb-5"><span>Au travers de nos <strong>atouts technico-commerciales</strong> nous menons à bien l'<strong class="black-text">ecoute,l'etude et la comprehension de vos besoins.</strong>
-                                                            Une fois vos exigences contractualiser, si vous le désirez, une de nos équipes éffecue une <strong class="black-text">analyse</strong> détaillée de vos besoins afin d'effectuer <strong class="black-text"> une définition des
+            <p class="grey-text text-center ml-5 mr-5 mb-5"><span>Au travers nos <strong>atouts technico-commerciales</strong> nous menons à bien l'<strong class="black-text">ecoute,l'etude et la compréhension de vos besoins.</strong>
+                                                            Une fois vos exigences contractualiser, si vous le désirez, une de nos équipes éffectue une <strong class="black-text">analyse</strong> détaillée de vos besoins afin d'effectuer <strong class="black-text"> une définition des
                                                             spécifications techniques</strong> nécessaire à l'implémentation de votre service. Suite à cette étape nous pouvons passer à l'<strong class="black-text">implémentation de votre service.</strong></span>
-                                                            <span>Nous avons le soucis de la rationalisation des couts, du respect des délais et de la qualité. Tout ceci pour vous satisfaire</span></p>
+                                                            <span>Nous avons le soucis de la rationalisation des coûts, du respect de délais et de la qualité. Tout ceci pour vous satisfaire</span></p>
 
             <!-- First row -->
             <div class="row features-big text-center wow fadeIn" data-wow-delay="0.4s">
@@ -238,7 +238,7 @@
                         <i class="fa fa-assistive-listening-systems dark-grey- fa-3x mb-4" aria-hidden="true"></i>
                         <h5 class="font-weight-bold text-uppercase mb-4">Ecoute et analyse des besoins client</h5>
                         <p class="dark-grey-text">Grace à vous, nous définissons les exigences de votre service
-												  et schématisons les spécifications fonctionnelles</p>
+												  et schématisons les spécifications fonctionnelle</p>
                     </div>
                     <!--/.Panel-->
 
@@ -264,7 +264,7 @@
                     <!--Panel-->
                     <div class="card card-body yellow hoverable">
                         <i class="fa fa-wifi dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
-                        <h5 class="font-weight-bold text-uppercase mb-4">Conception et management des systèmes réseau</h5>
+                        <h5 class="font-weight-bold text-uppercase mb-4">Conception et management des systèmes réseaux</h5>
                         <p class="dark-grey-text">Ensemble, nous revisons ou mettons sur pied votre système réseau </p>
                     </div>
                     <!--/.Panel-->
@@ -303,12 +303,31 @@
                     <div class="card card-body hoverable">
                         <i class="fa fa-book dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
                         <h5 class="font-weight-bold text-uppercase mb-4">Formation</h5>
-                        <p class="dark-grey-text">Des proféssionnels expérimentés pour partager avec vous leurs connaissances dans certains domaines</p>
+                        <p class="dark-grey-text">Des proféssionnels expérimentés pour partager avec vous leurs connaissances dans divers domaines</p>
                     </div>
                     <!--/.Panel-->
 
                 </div>
                 <!-- /.Developpement column -->
+
+
+                <div class="col-md-4 mb-5">
+                </div>
+                <!-- Developpement column -->
+                <div class="col-md-4 mb-5">
+
+                    <!--Panel-->
+                    <div class="card card-body hoverable">
+                        <i class="fa fa-book dark-grey-text fa-3x mb-4" aria-hidden="true"></i>
+                        <h5 class="font-weight-bold text-uppercase mb-4">Traduction de contenu</h5>
+                        <p class="dark-grey-text">Traduisé vos contenus dans diverse langues: Français, Anglais, Allemand, Italien</p>
+                    </div>
+                    <!--/.Panel-->
+
+                </div>
+                <!-- /.Developpement column -->
+                <div class="col-md-4 mb-5">
+                </div>
             </div>
             <!-- /.First row -->
 
@@ -318,83 +337,7 @@
     </div>
     <!-- /.Second container -->
 
-    <div class="container">
-        <!-- Third section -->
-        <section id="lawyers" class="section team-section mb-5">
 
-            <!-- Section title -->
-            <h2 class="indigo-text text-center text-uppercase font-weight-bold my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Our Team</h2>
-
-            <!-- Section description -->
-            <p class="text-center w-responsive mx-auto my-5 wow fadeIn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia iste provident, voluptatum voluptatibus aut modi aspernatur autem impedit, eius, debitis earum voluptatem. Quaerat hic aspernatur laborum magni earum.</p>
-
-            <!-- First row -->
-            <div class="row text-center">
-
-                <!--First column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar">
-                        <img src="/img/Team/wilfried_noir_blanc.jpg" class="z-depth-1">
-                    </div>
-                    <h4 class="font-weight-bold my-3">Wilfried N</h4>
-                    <p class="grey-text">Ingénieur en Management des Systèmes d'informations</p>
-                    <!--Pinterest-->
-                    <a type="button" class="btn-floating btn-secondary" href="https://www.linkedin.com/in/wilfried-nkouekam-b1a628156/"><i class="fa fa-linkedin"></i></a>
-                    <!--Instagram-->
-                    <a type="button" class="btn-floating btn-dark" href="https://github.com/ZeroAbsolue/"><i class="fa fa-github"></i></a>
-
-                </div>
-                <!--/First column-->
-
-                <!--Second column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar" style="height: 270px">
-                        <img src="/img/Team/line_couleur.jpg"  class="z-depth-1">
-                    </div>
-                    <h4 class="font-weight-bold my-4">Gina L</h4>
-                    <p class="grey-text">Rédactrice de contenu</p>
-
-                    <!--Google +-->
-                    <a type="button" class="btn-floating btn-danger" href="mailto:ginaline0@gmail.com"><i class="fa fa-google-plus"></i></a>
-                    <!--facebook +-->
-                    <a type="button" class="btn-floating btn-blue" href="https://web.facebook.com/profile.php?id=100005315837449&sk=photos"><i class="fa fa-facebook"></i></a>
-                </div>
-                <!--/Second column-->
-
-                <!--Third column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar" style="height: 270px">
-                        <img src="/img/Team/junior.jpg" class="z-depth-1">
-                    </div>
-                    <h4 class="font-weight-bold my-3">Jun p</h4>
-                    <p class="grey-text">Ingénieur en Management des Systèmes d'informations</p>
-
-                    <!--Google +-->
-                    <a type="button" class="btn-floating btn-danger" href="mailto:jbnulrich@gmail.com"><i class="fa fa-google-plus"></i></a>
-
-
-                </div>
-                <!--/Third column-->
-
-                <!--Second column-->
-                <div class="col-lg-3 col-md-6 mb-5">
-                    <div class="avatar" style="height: 270px">
-                        <img src="/img/Team/Profile.png"  class="z-depth-1">
-                    </div>
-                    <h4 class="font-weight-bold my-4">Alain S</h4>
-                    <p class="grey-text">Rédacteur de contenu</p>
-
-                    <!--Google +-->
-                    <a type="button" class="btn-floating btn-danger"><i class="fa fa-google-plus"></i></a>
-                    <!--facebook +-->
-                    <a type="button" class="btn-floating btn-blue"><i class="fa fa-facebook"></i></a>
-                </div>
-                <!--/Second column-->
-            </div>
-
-        </section>
-        <!-- /.Third section -->
-    </div>
 
     <!--Third container-->
     <div class="container-fluid" style="background-color: #f3f3f5;">
@@ -746,6 +689,84 @@
         <!--/Projects section v.2-->
     </div>
 
+    <div class="container">
+        <!-- Third section -->
+        <section id="lawyers" class="section team-section mb-5">
+
+            <!-- Section title -->
+            <h2 class="indigo-text text-center text-uppercase font-weight-bold my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Our <span class="black-text">Team</span></h2>
+
+            <!-- Section description -->
+            <p class="text-center w-responsive mx-auto my-5 wow fadeIn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia iste provident, voluptatum voluptatibus aut modi aspernatur autem impedit, eius, debitis earum voluptatem. Quaerat hic aspernatur laborum magni earum.</p>
+
+            <!-- First row -->
+            <div class="row text-center">
+
+                <!--First column-->
+                <div class="col-lg-3 col-md-6 mb-5">
+                    <div class="avatar">
+                        <img src="/img/Team/wilfried_noir_blanc.jpg" class="z-depth-1">
+                    </div>
+                    <h4 class="font-weight-bold my-3">Wilfried N</h4>
+                    <p class="grey-text">Ingénieur en Management de Systèmes d'informations</p>
+                    <!--Pinterest-->
+                    <a type="button" class="btn-floating btn-secondary" href="https://www.linkedin.com/in/wilfried-nkouekam-b1a628156/"><i class="fa fa-linkedin"></i></a>
+                    <!--Instagram-->
+                    <a type="button" class="btn-floating btn-dark" href="https://github.com/ZeroAbsolue/"><i class="fa fa-github"></i></a>
+
+                </div>
+                <!--/First column-->
+
+                <!--Second column-->
+                <div class="col-lg-3 col-md-6 mb-5">
+                    <div class="avatar" style="height: 270px">
+                        <img src="/img/Team/line_couleur.jpg"  class="z-depth-1">
+                    </div>
+                    <h4 class="font-weight-bold my-4">Gina L</h4>
+                    <p class="grey-text">Rédactrice de contenu</p>
+
+                    <!--Google +-->
+                    <a type="button" class="btn-floating btn-danger" href="mailto:ginaline0@gmail.com"><i class="fa fa-google-plus"></i></a>
+                    <!--facebook +-->
+                    <a type="button" class="btn-floating btn-blue" href="https://web.facebook.com/profile.php?id=100005315837449&sk=photos"><i class="fa fa-facebook"></i></a>
+                </div>
+                <!--/Second column-->
+
+                <!--Third column-->
+                <div class="col-lg-3 col-md-6 mb-5">
+                    <div class="avatar" style="height: 270px">
+                        <img src="/img/Team/junior.jpg" class="z-depth-1">
+                    </div>
+                    <h4 class="font-weight-bold my-3">Jun p</h4>
+                    <p class="grey-text">Ingénieur en Management de Systèmes d'informations</p>
+
+                    <!--Google +-->
+                    <a type="button" class="btn-floating btn-danger" href="mailto:jbnulrich@gmail.com"><i class="fa fa-google-plus"></i></a>
+
+
+                </div>
+                <!--/Third column-->
+
+                <!--Second column-->
+                <div class="col-lg-3 col-md-6 mb-5">
+                    <div class="avatar" style="height: 270px">
+                        <img src="/img/Team/Profile.png"  class="z-depth-1">
+                    </div>
+                    <h4 class="font-weight-bold my-4">Alain S</h4>
+                    <p class="grey-text">Rédacteur de contenu</p>
+
+                    <!--Google +-->
+                    <a type="button" class="btn-floating btn-danger"><i class="fa fa-google-plus"></i></a>
+                    <!--facebook +-->
+                    <a type="button" class="btn-floating btn-blue"><i class="fa fa-facebook"></i></a>
+                </div>
+                <!--/Second column-->
+            </div>
+
+        </section>
+        <!-- /.Third section -->
+    </div>
+
     <!-- Fourth container -->
     <div class="container">
     <!--Section: Contact-->
@@ -754,7 +775,9 @@
         <!--Section heading-->
         <h2 class="indigo-text text-center text-uppercase font-weight-bold my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Contact</h2>
         <!--Section sescription-->
-        <p class="text-center w-responsive mx-auto mb-5 pb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
+        <p class="text-center w-responsive mx-auto mb-5 pb-5">Une idée est un fruit de l'esprit. Toute idée est un potentiel projet dont source de valeur ajoutée. C'est pourquoi votre
+                                                              idée doit être murie, orienté, réalisé et suivi. Laisser nous un message et permettez nous de vous assister quel que soit
+                                                              l'etape à laquelle vous êtes</p>
 
         <div class="row">
 
