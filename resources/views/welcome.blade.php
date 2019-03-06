@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://e-consultant.herokuapp.com/" />
     <meta property="og:image" content="/img/favicon/1jojl1FOMkX9WypfBe43D6ki...OBqxVInxjNwXs1M3EMoAJtlSUthPZv9Pw-ConvertImage.png" />
-
+    <meta name="google-site-verification" content="KnrO5ttIOdEYQbekqNfkyJvnZG_z76PaZO-TiHqXFtQ" />
     <!-- Font Awesome -->
     <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
 
