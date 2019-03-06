@@ -2,12 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <title>Etude, Analyse ,Conception, Réalisation et Suivi de  projet: e-consultant </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="copyright" content="e-consultant Consultance en informatique" />
     <meta name="description" content="e-consultant, Etude, Analyse , Conception, Réalisation, Conduite, Déploiement ou mise en production,
                                       Support, Technico-commerciaux. Nous sommes un groupe de professionnels expérimentés de l'informatique">
-    <title>Conception, Réalisation et Suivi de  projet: e-consultant </title>
+
+    <meta property="og:title" content="Conception, Réalisation et Suivi de  projet: e-consultant " />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://e-consultant.herokuapp.com/" />
+    <meta property="og:image" content="/img/favicon/1jojl1FOMkX9WypfBe43D6ki...OBqxVInxjNwXs1M3EMoAJtlSUthPZv9Pw-ConvertImage.png" />
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
