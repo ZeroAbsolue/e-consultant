@@ -1,0 +1,8 @@
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: *
+Disallow:
+Allow:/
+
+

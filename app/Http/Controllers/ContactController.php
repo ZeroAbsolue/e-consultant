@@ -4,10 +4,12 @@ namespace App\Http\Controllers;
 
 use App\Mail\Contact\AccuseReception;
 use App\Notifications\IncomingMessage;
+use App\Notifications\MailNotSend;
 use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Notification;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Support\Facades\Session;
 
 class ContactController extends Controller
 {
@@ -54,9 +56,23 @@ class ContactController extends Controller
         $subject = $request->get('subject');
         $message = $request->get('message');
 
-        Notification::send($users, new IncomingMessage($sender,$email,$subject,$message));
         $accuse = new AccuseReception($sender,$subject,$message);
-        Mail::to($email)->send($accuse);
+        try{
+            Mail::to($email)->send($accuse);
+            Notification::send($users, new IncomingMessage($sender,$email,$subject,$message));
+            $request->session()->flash('succes-message','Mail envoyé avec succès');
+        }catch (\Swift_TransportException $exception){
+            if($exception->getCode() == 0 ){
+                Notification::send($users, new MailNotSend($email,$message,$subject,[],"Accusé de reception du message","Vous n'êtes pas connecté à internet"));
+                $request->session()->flash('error-message','Message non envoyé : Vérifier votre connexion internet');
+            }
+            else{
+                Notification::send($users, new MailNotSend($email,$message,$subject,[],"Accusé de reception du message",$exception->getMessage()));
+                $request->session()->flash('error-message','Message non envoyé : Erreur côté serveur');
+
+            }
+        }
+        return redirect('/');
     }
 
     /**

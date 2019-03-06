@@ -50,10 +50,10 @@
                     <a class="nav-link" href="#services">Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#testimonials">Testimonials</a>
+                    <a class="nav-link" href="#projet">Projets</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#projet">Projets</a>
+                    <a class="nav-link" href="#testimonials">Testimonials</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#contact">Contact</a>
@@ -123,6 +123,15 @@
 
 <main>
 
+    @if(Session::has('succes-message'))
+        <div class="alert alert-success text-center"  role="alert">
+            {{Session::get('succes-message')}}
+        </div>
+        @elseif(Session::has('error-message'))
+        <div class="alert alert-danger text-center"  role="alert">
+            {{Session::get('error-message')}}
+        </div>
+        @endif
     <!-- First container -->
     <div class="container">
 
@@ -199,10 +208,10 @@
 
     <!-- streak -->
 
-    <div class="streak streak-photo streak-md" style="background-image:url('/img/65578876d4f20e9.jpg')">
+    <div class="streak streak-photo streak-long-2" style="background-image:url('/img/65578876d4f20e9.jpg')">
         <div class="flex-center rgba-indigo-light mask">
             <div class="white-text smooth-scroll mx-4">
-                <h2 class="h2-responsive mb-5 wow fadeIn">Désirez vous une formation rapide entre vos heures libres ... Nous sommes disponible</h2>
+                <h2 class="h2-responsive mb-5 wow fadeIn ">Désirez vous une formation rapide entre vos heures libres ... Nous sommes disponible</h2>
                 <h4 class="h4-responsive text-center">Créer votre compte et profitez en</h4>
                 <div class="text-center">
                     <a href="#contact" class="btn btn-outline-white wow fadeIn " data-offset="100" data-wow-delay="0.2s">Contact us</a>
@@ -222,7 +231,7 @@
 
             <!--Secion heading-->
             <h2 class="indigo-text text-center text-uppercase font-weight-bold mt-4 mb-5 pt-5 pb-4 wow fadeIn" data-wow-delay="0.2s">Our <span class="black-text">Services</span></h2>
-            <p class="grey-text text-center ml-5 mr-5 mb-5"><span>Au travers nos <strong>atouts technico-commerciales</strong> nous menons à bien l'<strong class="black-text">ecoute,l'etude et la compréhension de vos besoins.</strong>
+            <p class="grey-text ml-5 mr-5 mb-5 text-center"><span>À travers nos <strong>atouts technico-commerciales</strong> nous menons à bien l'<strong class="black-text">ecoute,l'etude et la compréhension de vos besoins.</strong>
                                                             Une fois vos exigences contractualiser, si vous le désirez, une de nos équipes éffectue une <strong class="black-text">analyse</strong> détaillée de vos besoins afin d'effectuer <strong class="black-text"> une définition des
                                                             spécifications techniques</strong> nécessaire à l'implémentation de votre service. Suite à cette étape nous pouvons passer à l'<strong class="black-text">implémentation de votre service.</strong></span>
                                                             <span>Nous avons le soucis de la rationalisation des coûts, du respect de délais et de la qualité. Tout ceci pour vous satisfaire</span></p>
@@ -337,100 +346,6 @@
     </div>
     <!-- /.Second container -->
 
-
-
-    <!--Third container-->
-    <div class="container-fluid" style="background-color: #f3f3f5;">
-        <div class="container pt-3 pb-3">
-            <!--Section: Testimonials v.2-->
-            <section id="testimonials" class="section py-5 mb-4">
-                <!--Section heading-->
-                <h2 class="text-uppercase indigo-text text-center font-weight-bold my-4 wow fadeIn" data-wow-delay="0.2s">Testimonials</h2>
-                <hr class="between-sections">
-                <!--Carousel Wrapper-->
-                <div id="carousel-example-1" class="carousel no-flex testimonial-carousel slide carousel-fade" data-ride="carousel" data-interval="false">
-                    <!--Slides-->
-                    <div class="carousel-inner" role="listbox">
-                        <!--First slide-->
-                        <div class="carousel-item active">
-                            <div class="testimonial mt-4 text-center">
-                                <!--Content-->
-                                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore cum accusamus eveniet molestias voluptatum inventore laboriosam labore sit, aspernatur praesentium iste impedit quidem.</p>
-                                <div class="mt-4">
-                                    <h5><strong>John Doe</strong></h5>
-                                    <p>Founder at ET Company</p>
-                                </div>
-                                <!--Review-->
-                                <div class="indigo-text">
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star-half-full"> </i>
-                                </div>
-                            </div>
-                        </div>
-                        <!--/First slide-->
-                        <!--Second slide-->
-                        <div class="carousel-item">
-                            <div class="testimonial mt-4 text-center">
-                                <!--Content-->
-                                <p><i class="fa fa-quote-left"></i> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt. </p>
-                                <div class="mt-4">
-                                    <h5><strong>Maria Kate</strong></h5>
-                                    <p>Photographer at Studio LA</p>
-                                </div>
-                                <!--Review-->
-                                <div class="indigo-text">
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                </div>
-                            </div>
-                        </div>
-                        <!--/Second slide-->
-                        <!--Third slide-->
-                        <div class="carousel-item">
-                            <div class="testimonial mt-4 text-center">
-                                <!--Content-->
-                                <p><i class="fa fa-quote-left"></i> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-                                <div class="mt-4">
-                                    <h5><strong>Anna Deynah</strong></h5>
-                                    <p>Front-end Developer in NY</p>
-                                </div>
-                                <!--Review-->
-                                <div class="indigo-text">
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star"> </i>
-                                    <i class="fa fa-star-o"> </i>
-                                </div>
-                            </div>
-                        </div>
-                        <!--/Third slide-->
-                    </div>
-                    <!--/.Slides-->
-                    <!--Controls-->
-                    <a class="carousel-item-prev left carousel-control" href="#carousel-example-1" role="button" data-slide="prev">
-                        <span class="icon-prev" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-item-next right carousel-control" href="#carousel-example-1" role="button" data-slide="next">
-                        <span class="icon-next" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                    <!--/.Controls-->
-                </div>
-                <!--/.Carousel Wrapper-->
-            </section>
-            <!--Section: Testimonials v.2-->
-        </div>
-    </div>
-    <!--/Third container-->
-
     <div class="container">
         <!--Projects section v.2-->
         <section id="projet" class="section mt-2 pb-5 mb-4">
@@ -439,7 +354,7 @@
                 <div class="row mt-4">
                     <div class="col-md-12 ">
                         <h2 class="text-uppercase text-center indigo-text font-weight-bold my-4 pt-5 wow fadeIn" data-wow-delay="0.2s">Our <span class="black-text">Projects</span></h2>
-                       <hr class="between-sections">
+                        <hr class="between-sections">
                         <p class="text-center w-responsive mx-auto mt-5 wow fadeIn" data-wow-delay="0.2s">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum quas, eos officia maiores ipsam ipsum dolores reiciendis ad voluptas, animi obcaecati adipisci sapiente mollitia. </p>
                     </div>
@@ -689,6 +604,98 @@
         <!--/Projects section v.2-->
     </div>
 
+    <!--Third container-->
+    <div class="container-fluid" style="background-color: #f3f3f5;">
+        <div class="container pt-3 pb-3">
+            <!--Section: Testimonials v.2-->
+            <section id="testimonials" class="section py-5 mb-4">
+                <!--Section heading-->
+                <h2 class="text-uppercase indigo-text text-center font-weight-bold my-4 wow fadeIn" data-wow-delay="0.2s">Testimonials</h2>
+                <hr class="between-sections">
+                <!--Carousel Wrapper-->
+                <div id="carousel-example-1" class="carousel no-flex testimonial-carousel slide carousel-fade" data-ride="carousel" data-interval="false">
+                    <!--Slides-->
+                    <div class="carousel-inner" role="listbox">
+                        <!--First slide-->
+                        <div class="carousel-item active">
+                            <div class="testimonial mt-4 text-center">
+                                <!--Content-->
+                                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore cum accusamus eveniet molestias voluptatum inventore laboriosam labore sit, aspernatur praesentium iste impedit quidem.</p>
+                                <div class="mt-4">
+                                    <h5><strong>John Doe</strong></h5>
+                                    <p>Founder at ET Company</p>
+                                </div>
+                                <!--Review-->
+                                <div class="indigo-text">
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star-half-full"> </i>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/First slide-->
+                        <!--Second slide-->
+                        <div class="carousel-item">
+                            <div class="testimonial mt-4 text-center">
+                                <!--Content-->
+                                <p><i class="fa fa-quote-left"></i> Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt. </p>
+                                <div class="mt-4">
+                                    <h5><strong>Maria Kate</strong></h5>
+                                    <p>Photographer at Studio LA</p>
+                                </div>
+                                <!--Review-->
+                                <div class="indigo-text">
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/Second slide-->
+                        <!--Third slide-->
+                        <div class="carousel-item">
+                            <div class="testimonial mt-4 text-center">
+                                <!--Content-->
+                                <p><i class="fa fa-quote-left"></i> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                <div class="mt-4">
+                                    <h5><strong>Anna Deynah</strong></h5>
+                                    <p>Front-end Developer in NY</p>
+                                </div>
+                                <!--Review-->
+                                <div class="indigo-text">
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star"> </i>
+                                    <i class="fa fa-star-o"> </i>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/Third slide-->
+                    </div>
+                    <!--/.Slides-->
+                    <!--Controls-->
+                    <a class="carousel-item-prev left carousel-control" href="#carousel-example-1" role="button" data-slide="prev">
+                        <span class="icon-prev" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-item-next right carousel-control" href="#carousel-example-1" role="button" data-slide="next">
+                        <span class="icon-next" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                    <!--/.Controls-->
+                </div>
+                <!--/.Carousel Wrapper-->
+            </section>
+            <!--Section: Testimonials v.2-->
+        </div>
+    </div>
+    <!--/Third container-->
+
     <div class="container">
         <!-- Third section -->
         <section id="lawyers" class="section team-section mb-5">
@@ -775,9 +782,9 @@
         <!--Section heading-->
         <h2 class="indigo-text text-center text-uppercase font-weight-bold my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Contact</h2>
         <!--Section sescription-->
-        <p class="text-center w-responsive mx-auto mb-5 pb-5">Une idée est un fruit de l'esprit. Toute idée est un potentiel projet dont source de valeur ajoutée. C'est pourquoi votre
-                                                              idée doit être murie, orienté, réalisé et suivi. Laisser nous un message et permettez nous de vous assister quel que soit
-                                                              l'etape à laquelle vous êtes</p>
+        <p class="text-center w-responsive mx-auto mb-5 pb-5 aJustifier">Une <strong>idée</strong> est un fruit de l'esprit. Toute idée est un potentiel projet c'est à dire source de valeur ajoutée pour nous et les autres. C'est pourquoi votre
+                                                              idée doit être murie, orienté, réalisé et suivie. Laissez nous un message et permettez nous de vous assister quel que soit
+                                                              l'etape à laquelle vous êtes dans le processus de réalisation de votre projet</p>
 
         <div class="row">
 
